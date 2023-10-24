@@ -1,0 +1,9 @@
+1) git --version - to check the version of git
+2) git status - it will show the status of repository
+3) git init - git repository initialise karnyasathi ani 
+jar 
+
+// git bash ahe te unix chya basis vr kam karte
+//working directory ---> staging area ----> git repository 
+4) git add . - sarv files working directory madhun staging area madhe
+nenysathi
