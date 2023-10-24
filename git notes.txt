@@ -7,3 +7,5 @@ jar
 //working directory ---> staging area ----> git repository 
 4) git add . - sarv files working directory madhun staging area madhe
 nenysathi
+5) git commit -m "commit in double quotes" - to commit the changes you
+stage using (git add.) command 
