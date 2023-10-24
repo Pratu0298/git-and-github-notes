@@ -1,13 +1,26 @@
 1) git --version - to check the version of git
+
 2) git status - it will show the status of repository
+
 3) git init - git repository initialise karnyasathi ani 
 jar 
 
 // git bash ahe te unix chya basis vr kam karte
 //working directory ---> staging area ----> git repository 
+
 4) git add . - sarv files working directory madhun staging area madhe
 nenysathi
+
 5) git commit -m "commit in double quotes" - to commit the changes you
 stage using (git add.) command 
+
 6) git log - hi command use kelyavr kalel ki changes koni kele ahet 
 tyacha userid ani email yamule aplyala bhetel
+
+7) git config --global user.name "name of user" - to set the of user
+(--global karan jitkya pn repository apan karnar ahot tyasathi ha 
+user name)
+
+8) git config --global user.email "mailid" - to set the of user email
+(--global karan jitkya pn repository apan karnar ahot tyasathi ha 
+user name)
