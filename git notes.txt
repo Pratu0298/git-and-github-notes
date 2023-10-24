@@ -9,3 +9,5 @@ jar
 nenysathi
 5) git commit -m "commit in double quotes" - to commit the changes you
 stage using (git add.) command 
+6) git log - hi command use kelyavr kalel ki changes koni kele ahet 
+tyacha userid ani email yamule aplyala bhetel
