@@ -1,3 +1,6 @@
 All about git diff command 
 
 How it works ?
+
+1) git diff "filename.extension" - to check the modification for a file
+2) git diff - to check modification in all file
