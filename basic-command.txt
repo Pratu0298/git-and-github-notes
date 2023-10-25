@@ -38,3 +38,4 @@ user name)
 13) git pull origin master - to pull the code from github 
 Note : how to add SSH key kindly check it 
 
+14) 
