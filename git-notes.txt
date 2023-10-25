@@ -1,3 +1,5 @@
+#### Basic commands of git ####
+
 1) git --version - to check the version of git
 
 2) git status - it will show the status of repository
