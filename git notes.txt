@@ -21,6 +21,9 @@ tyacha userid ani email yamule aplyala bhetel
 (--global karan jitkya pn repository apan karnar ahot tyasathi ha 
 user name)
 
+8) git config user.name - it will give the user name
+9) git config user.email - it will give the user email
+
 8) git config --global user.email "mailid" - to set the of user email
 (--global karan jitkya pn repository apan karnar ahot tyasathi ha 
 user name)
