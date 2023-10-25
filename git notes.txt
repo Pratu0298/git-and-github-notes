@@ -27,3 +27,11 @@ user name)
 10) git config --global user.email "mailid" - to set the of user email
 (--global karan jitkya pn repository apan karnar ahot tyasathi ha 
 user name)
+
+11) git remote add origin --(in dash add the ssh key url)- to link github-repo and computer folder
+
+12) git push -u origin master - to push the code to github 
+(it works only if your SSH key is already added)
+
+13) git pull origin master - to pull the code from github 
+
