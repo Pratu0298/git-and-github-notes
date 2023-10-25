@@ -2,5 +2,12 @@ All about git diff command
 
 How it works ?
 
-1) git diff "filename.extension" - to check the modification for a file
+1) git diff filename.extension - to check the modification for a file
 2) git diff - to check modification in all file
+3) git reset filename.extension - make staged file to unstaged file
+(the changes we have added using "git add ." command to remove it we use this)
+4) git checkout filename.extension - to make the updation after reset in file 
+from stage to unstage
+
+Note : after git reset command you have to use the git checkout command
+then only files will be updated 
