@@ -11,3 +11,8 @@ from stage to unstage
 
 Note : after git reset command you have to use the git checkout command
 then only files will be updated 
+
+5) git checkout . - to reset all files in a folder
+(eka folder madhil sarv files na reset karnyasathi)
+
+Note : commit tevhach kara jevha tumhi sure asal 
