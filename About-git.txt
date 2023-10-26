@@ -1,0 +1,9 @@
+what git does?
+--> git ek .git navacha hidden folder
+banvto jyamadhe to sarv data store karto
+e.g 1) kay changes kele ahet 
+2) commits baddal 
+3) git repository baddal 
+4) modification baddal
+etc. yasarkhya khup information tyamadhe
+save astat.
