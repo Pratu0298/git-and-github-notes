@@ -1,9 +1,16 @@
 if suppose you want to clone(make a copy of any github repository)
 the use command given below :
 1) git clone ssh-key-url(copy link from github)
-
+e.g git clone git@github.com:Pratu0298/git-and-github-notes.git
 hi command jya folder madhe tumhi git bash open kel ahe tya foleder
 madhe ji repository tumhi clone keli ahe tya repository chhya navacha folder
 git bash open aslelya folder madhe banvel ani sarv file tymadhe save karel
 
+2) git command ssh-key-url(copy link from github) .
+e.g git clone git@github.com:Pratu0298/git-and-github-notes.git .
+
+same like above we are just adding .(dot) here
+yamdhe tumhala ek seperate folder create kela asel ani tyat git repository 
+chya files add karaychya astil tr fkt file have astil purn navin folder 
+create karun nahi pahije tr hi command use kartat
 
