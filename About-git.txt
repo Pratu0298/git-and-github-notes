@@ -7,3 +7,7 @@ e.g 1) kay changes kele ahet
 4) modification baddal
 etc. yasarkhya khup information tyamadhe
 save astat.
+
+note :ls -la(ls one space then minus without space la)
+1) this is unix based command
+2) yamule directory cha sarv content show karto 
