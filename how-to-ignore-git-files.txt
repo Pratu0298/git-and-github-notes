@@ -1,0 +1,6 @@
+If you want to ignore a file while tracking '
+your git repository then use git ignore
+
+Note : 1) ignore files wisely
+2) read from internet
+which command is use to ignore the git
